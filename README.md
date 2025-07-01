@@ -29,7 +29,7 @@ A secure ASP.NET Core Web API for user **registration** and **login**, using **J
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/YourUsername/RegistrationAPI.git
+   git clone https://github.com/MostafaMedhat19/RegistrationAPI.git
    cd RegistrationAPI
 ##  API Endpoints :
 ![image](https://github.com/user-attachments/assets/5bf5f650-cf55-460a-aa3f-ab8cbcdb0867)
